@@ -71,6 +71,10 @@ counter, leaderboard, and dark theme.
 
 <img width="1912" height="862" alt="image" src="https://github.com/user-attachments/assets/3865b64b-d1a3-40a4-97f3-d2372f61edba" />
 
+<img width="504" height="504" alt="face-puzzle-solved" src="https://github.com/user-attachments/assets/0a3e0823-439f-4868-9be2-c94037158414" />
+
+<img width="1908" height="862" alt="image" src="https://github.com/user-attachments/assets/f39eabb1-b9f1-44df-946f-bfa29464f87f" />
+
 
 ## Key Learnings
 - Claude can build complete games
