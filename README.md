@@ -1,4 +1,3 @@
-# Day-20 Face Puzzle Game
 # Day 20 - Face Puzzle Game
 
 ## What I Built Today
