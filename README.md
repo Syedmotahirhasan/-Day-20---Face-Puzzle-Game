@@ -120,5 +120,4 @@ This is the power of AI in 2025!
 From basic prompting to building
 interactive games with AI —
 the journey has been incredible!
-Gorakhpur to FAANG —
 20 days stronger! 💪🚀
